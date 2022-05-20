@@ -18,7 +18,8 @@ https://www.jianshu.com/p/3ddf001ed636
   year={2012}
 }
 ```
-`Improving Mac OS X security through gray box fuzzing technique`.
+Improving Mac OS X security through gray box fuzzing technique.
+
 ```
 Stefano Bianchi Mazzone, Mattia Pagnozzi, Aristide Fattori, Alessandro Reina, Andrea Lanzi, Danilo Bruschi:
 Improving Mac OS X security through gray box fuzzing technique. EUROSEC 2014: 2:1-2:6

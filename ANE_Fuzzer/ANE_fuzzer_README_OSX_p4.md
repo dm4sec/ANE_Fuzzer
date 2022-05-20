@@ -26,4 +26,5 @@ https://googleprojectzero.blogspot.com/2019/08/in-wild-ios-exploit-chain-4.html
 https://googleprojectzero.blogspot.com/2019/08/in-wild-ios-exploit-chain-5.html
 https://blog.pangu.io/?p=221  
 https://i.blackhat.com/USA-19/Thursday/us-19-Lilang-Debug-For-Bug-Crack-And-Hack-Apple-Core-By-Itself-Fun-And-Profit-To-Debug-And-Fuzz-Apple-Kernel-By-LLDB-Script.pdf  
+https://conference.hitb.org/hitbsecconf2019ams/materials/D1T2%20-%20Fresh%20Apples%20-%20Researching%20New%20Attack%20Interfaces%20on%20iOS%20and%20OSX%20-%20Moony%20Li%20&%20Lilang%20Wu.pdf  
 https://googleprojectzero.blogspot.com/2014/11/pwn4fun-spring-2014-safari-part-ii.html  
